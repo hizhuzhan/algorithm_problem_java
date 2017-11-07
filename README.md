@@ -2,7 +2,7 @@
 ## 目录
 ### 1. [AlgorithmProblem_problem](#1)
   >###### 1.1 [百元白鸡](#1.1)
-  >###### 1.1 [二维数组中的查找](#1.2)
+  >###### 1.2 [二维数组中的查找](#1.2)
 
 <br>
 <br>
@@ -12,7 +12,8 @@
 <br>
 
 <a id="1"></a>
-## AlgorithmProblem <br>
+## AlgorithmProblem_problem <br>
+
 <a id="1.1"></a>
 ### 1.1. 百元百鸡
 
