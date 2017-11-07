@@ -1,7 +1,8 @@
 # algorithm_problem_java <a id="algorithm_problem_java"></a>
 ## 目录
 ### 1. [AlgorithmProblem_problem](#1)
-  >###### 1.1 [百元白鸡](#1.1)<br>
+
+  >###### 1.1 [百元白鸡](#1.1)
   >###### 1.2 [二维数组中的查找](#1.2)
 
 <br>
